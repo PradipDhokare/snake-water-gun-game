@@ -26,4 +26,4 @@ This is a simple command-line based Snake Water Gun game in Python, similar to t
 
 ## 💻 Run the game:
 
-python snake_water_gun.py
+python main.py
